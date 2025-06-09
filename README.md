@@ -1,4 +1,5 @@
 Здесь будут храниться файлы для подготовки к экзаменам
 
 Отдельная благодарность Рузановой Дарье и Карабалину Руслану
-[omsu_notes](https://github.com/ruzanovad/omsu-notes/tree/main)
+
+- [omsu_notes](https://github.com/ruzanovad/omsu-notes/tree/main)
